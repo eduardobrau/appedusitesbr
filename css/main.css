@@ -1,0 +1,10 @@
+.bg-danger, .bg-success{
+	padding: 10px;
+	border-radius: 5px;
+}
+.bg-danger{border: 1px solid #d8a7a7;}
+div#logon{
+	margin: 15px 0 25px;
+}
+   
+td > a.btn.btn-xs{ margin-right: 3px; }
